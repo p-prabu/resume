@@ -1,19 +1,34 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Infosys
+  location: Gothenburg, Sweden
+  position: Technology Lead – Active Directory Specialist & Automation
+  duration: Apr 2019 &mdash; Present
+  summary: >
+    Supported Active Directory infrastructure for leading European automotive and manufacturing clients. Delivered full AD setup for new factory deployments, managed ADDS, ADFS, PKI, Entra Connect, DNS, GPOs, and hybrid identity services. Led PowerShell automation initiatives, handled escalations in global production environments, and produced HLDs, SOPs, and compliance documents.
+  achievements:
+    - Successfully deployed secure AD architecture for European and global factory sites.
+    - Achieved 99.0% uptime of domain controller infrastructure.
+    - Developed automation for AD Disaster Recovery process & metadata cleanup.
+    - Awarded the 2023–2024 ‘Nordic Ninja’ Award of Excellence.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Accenture
+  location: Bangalore, India
+  position: Technology Security Analyst
+  duration: Nov 2016 &mdash; Apr 2019
+  summary: >
+    Delivered Windows Server and AD support for enterprise clients. Managed patching, server audits, and GPO compliance across global sites. Automated server health checks and incident management dashboards. Led root cause analysis for AD-related authentication failures.
+  achievements:
+    - Resolved 95% of service requests and incidents within SLA.
 
+- company: i-Source Infosystems Pvt Ltd
+  location: Bangalore, India
+  position: System Engineer
+  duration: Feb 2015 &mdash; Nov 2016
+  summary: >
+    Supported Windows-based enterprise environments as IT Engineer/technician. Managed Active Directory user accounts and permissions, performed routine backups, system monitoring, and incident resolution.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Mphasis Ltd
+  location: Bangalore, India
+  position: Customer Support Officer
+  duration: Oct 2013 &mdash; Dec 2014
+  summary: >
+    Provided Level 1 technical support for end-users in a Windows-based enterprise environment. Installed, configured, and maintained desktops, laptops, and printers. Responded to tickets and calls, ensuring SLA-based resolution of incidents and service requests.
