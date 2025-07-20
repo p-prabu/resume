@@ -1,12 +1,19 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Identity Management
+  description: Active Directory (on-prem & hybrid), ADFS, PKI, Entra (Azure AD) Connect, Entra ID, Microsoft 365
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Infrastructure & Security
+  description: DNS, Windows Server 2016–2022, GPOs, Direct Access, Conditional Access
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Automation
+  description: PowerShell (advanced), Ansible (basic), automation of server and AD tasks
+
+- skill: Project Delivery
+  description: Active Directory setup for new environments, security assessment, hardening, and compliance readiness
+
+- skill: Client Engagement
+  description: Supporting enterprise customers across Europe, the U.S., and India in factory and production-critical environments
+
+- skill: Documentation
+  description: GitHub-based documentation, SOP creation, HLDs, infrastructure audit reporting, and compliance artifacts
