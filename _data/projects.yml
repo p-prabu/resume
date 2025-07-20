@@ -1,21 +1,17 @@
 # File: _data/projects.yml
 # This file contains a list of projects with their details.
 - project: Active Directory Assessment Toolkit
-  role: Lead Architect
   duration: 2019 — Present
   description: Designed and implemented an AD assessment toolkit to evaluate security posture, replication health, and compliance across factory domains.
 
 - project: Factory AD Deployment Automation
-  role: Technical Lead
   duration: 2020 — Present
   description: Led automation efforts for Active Directory setup and replication configuration for multiple new factory locations across Europe.
 
 - project: PowerShell Onboarding Tool
-  role: Developer
   duration: 2021 — Present
   description: Built a PowerShell-based onboarding tool to automate user creation, group assignment, and email provisioning with AD and Exchange integration.
 
 - project: AD Health Monitoring Dashboard
-  role: Automation Specialist
   duration: 2022 — Present
   description: Created an internal dashboard that uses PowerShell and scheduled jobs to monitor AD health metrics and alert on critical issues.
