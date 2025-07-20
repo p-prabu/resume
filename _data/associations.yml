@@ -1,24 +1,15 @@
-- organization: Active Directory Assessment Initiative
-  role: Lead Architect
-  year: 2019 — Present
-  summary: Conducted comprehensive Active Directory assessments to ensure security, compliance, and operational efficiency across factory and enterprise domains.
+# Associations
+# comment out the urls if you do not wish to display them
 
-- organization: Factory AD Deployment Program
-  role: Technical Lead
-  year: 2020 — Present
-  summary: Successfully led the deployment of Active Directory environments across multiple factory locations in Europe, ensuring seamless identity management and replication.
+- organization: PETA
+  role: Volunteer
+  year: 2001 &mdash; 2010
+  url: https://www.peta.org/
+  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
 
-- organization: PowerShell Onboarding Tool Project
-  role: Developer & Automator
-  year: 2021 — Present
-  summary: Built and maintained a PowerShell-based onboarding tool to streamline user provisioning, role assignment, and group membership automation.
 
-- organization: AD Health Monitoring Dashboard
-  role: Automation Specialist
-  year: 2022 — Present
-  summary: Developed automated scripts to monitor domain controller health, replication status, and proactively detect AD inconsistencies.
-
-- organization: Chain Discovery Automation
-  role: Automation Engineer
-  year: 2023 — Present
-  summary: Created automation to identify nested group chains and access paths in Active Directory for security audits and cleanup.
+- organization: Yale Amnesty International
+  role: Communications coordinator
+  year: 2002 &mdash; 2004
+  url: http://campuspress.yale.edu/amnesty/
+  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
