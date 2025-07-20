@@ -1,34 +1,54 @@
 - company: Infosys
   location: Gothenburg, Sweden
   position: Technology Lead – Active Directory Specialist & Automation
-  duration: Apr 2019 &mdash; Present
+  duration: Apr 2019 – Present
   summary: >
-    Supported Active Directory infrastructure for leading European automotive and manufacturing clients. Delivered full AD setup for new factory deployments, managed ADDS, ADFS, PKI, Entra Connect, DNS, GPOs, and hybrid identity services. Led PowerShell automation initiatives, handled escalations in global production environments, and produced HLDs, SOPs, and compliance documents.
+    Supporting AD infrastructure and automation for global manufacturing clients across Europe.
+  responsibilities:
+    - Supported Active Directory infrastructure for leading European automotive and manufacturing clients
+    - Delivered full Active Directory setup for new factory deployment — from planning, design, deployment to hardening
+    - Managed ADDS, ADFS, PKI, Entra Connect, DNS, GPOs, and hybrid identity services
+    - Led PowerShell automation initiatives to improve efficiency and reduce manual errors
+    - Handled escalations and incident resolution in global factory production environments
+    - Produced HLDs, SOPs, and compliance documentation for audits and internal reviews
   achievements:
-    - Successfully deployed secure AD architecture for European and global factory sites.
-    - Achieved 99.0% uptime of domain controller infrastructure.
-    - Developed automation for AD Disaster Recovery process & metadata cleanup.
-    - Awarded the 2023–2024 ‘Nordic Ninja’ Award of Excellence.
+    - Successfully deployed secure AD architecture for European and global factory sites
+    - Achieved 99.0% uptime of domain controller infrastructure
+    - Developed automation for AD Disaster Recovery process and metadata cleanup
+    - Awarded the 2023–2024 ‘Nordic Ninja’ Award of Excellence
 
 - company: Accenture
   location: Bangalore, India
   position: Technology Security Analyst
-  duration: Nov 2016 &mdash; Apr 2019
+  duration: Nov 2016 – Apr 2019
   summary: >
-    Delivered Windows Server and AD support for enterprise clients. Managed patching, server audits, and GPO compliance across global sites. Automated server health checks and incident management dashboards. Led root cause analysis for AD-related authentication failures.
+    Delivered enterprise-wide Windows Server and Active Directory support with automation focus.
+  responsibilities:
+    - Delivered Windows Server and AD support for enterprise clients
+    - Managed patching, server audits, and GPO compliance across global sites
+    - Automated server health checks and incident management dashboards
+    - Led root cause analysis (RCA) for AD-related authentication failures
   achievements:
-    - Resolved 95% of service requests and incidents within SLA.
+    - Resolved 95% of service requests and incidents within SLA
 
 - company: i-Source Infosystems Pvt Ltd
   location: Bangalore, India
   position: System Engineer
-  duration: Feb 2015 &mdash; Nov 2016
+  duration: Feb 2015 – Nov 2016
   summary: >
-    Supported Windows-based enterprise environments as IT Engineer/technician. Managed Active Directory user accounts and permissions, performed routine backups, system monitoring, and incident resolution.
+    Provided enterprise IT support with focus on AD management and infrastructure maintenance.
+  responsibilities:
+    - Acted as IT Engineer/technician supporting Windows-based enterprise environments
+    - Managed Active Directory user accounts and permissions
+    - Performed routine backups, system monitoring, and incident resolution
 
 - company: Mphasis Ltd
   location: Bangalore, India
   position: Customer Support Officer
-  duration: Oct 2013 &mdash; Dec 2014
+  duration: Oct 2013 – Dec 2014
   summary: >
-    Provided Level 1 technical support for end-users in a Windows-based enterprise environment. Installed, configured, and maintained desktops, laptops, and printers. Responded to tickets and calls, ensuring SLA-based resolution of incidents and service requests.
+    Provided first-level IT support and hardware maintenance in SLA-driven environment.
+  responsibilities:
+    - Provided Level 1 technical support for end-users in a Windows-based enterprise environment
+    - Installed, configured, and maintained desktops, laptops, and printers
+    - Responded to tickets and phone calls, ensuring SLA-based resolution of incidents and service requests
