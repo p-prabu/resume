@@ -61,6 +61,19 @@
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
+          <ul class="resume-item-list">
+            {% for responsibility in job.responsibilities %}
+            <li>{{ responsibility }}</li>
+            {% endfor %}
+          </ul>
+          {% if job.achievements %}
+          <strong>Key Achievements:</strong>
+          <ul class="resume-item-list">
+            {% for achievement in job.achievements %}
+            <li>{{ achievement }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
         </div><!-- end of resume-item -->
         {% endfor %}
 
